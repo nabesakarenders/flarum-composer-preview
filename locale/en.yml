@@ -1,0 +1,5 @@
+nabesaka-composer-preview:
+  forum:
+    toggle_preview_tooltip: Toggle Topic Preview
+    preview_heading: Topic Preview
+    preview_default_title: Enter A Title
